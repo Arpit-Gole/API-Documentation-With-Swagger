@@ -102,6 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+.idea
 .idea/API-Documentation-With-Swagger.iml
 .idea/encodings.xml
 .idea/misc.xml
